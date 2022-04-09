@@ -71,35 +71,35 @@ const Home: FC<{}> = (): ReactElement => {
         Vous recevez alors les factures payables par espèces, chèques, prélèvement ou cesu. En début d’année vous recevez un reçu fiscal pour les interventions effectuées vous permettant de bénéficiez de votre crédit d’impôt de 50%.  "/>
       </div>
       <div>
-        <Experience title="Ménage" logo="/images/menage.jpg" text={Menage_text}  competences={menage_prix}/>
+        <Experience title="Ménage" logo="/melimo/images/menage.jpg" text={Menage_text}  competences={menage_prix}/>
       </div>
 
       <div>
-        <Experience title="Garde d'enfants à domicile" logo="/images/garde.jpg" text={garde_text}  competences={garde_prix}/>
+        <Experience title="Garde d'enfants à domicile" logo="/melimo/images/garde.jpg" text={garde_text}  competences={garde_prix}/>
       </div>
 
       <div>
-        <Experience title="Jardinage" logo="/images/jardinage.jpg" text={aide_admin_text}  competences={jardinage_prix}/>
+        <Experience title="Jardinage" logo="/melimo/images/jardinage.jpg" text={aide_admin_text}  competences={jardinage_prix}/>
       </div>
 
       <div>
-        <Experience title="Aide Administrative" logo="/images/administratif.jpg" text={jardinage_text}  competences={aide_admin_prix}/>
+        <Experience title="Aide Administrative" logo="/melimo/images/administratif.jpg" text={jardinage_text}  competences={aide_admin_prix}/>
       </div>
 
       <div>
-        <Experience title="Livraison de courses" logo="/images/cart.jpg" text={livraison_text}  competences={livraison_prix}/>
+        <Experience title="Livraison de courses" logo="/melimo/images/cart.jpg" text={livraison_text}  competences={livraison_prix}/>
       </div>
 
       <div>
-        <Experience title="Bricolage" logo="/images/gloves.jpg" text={bricolage_text}  competences={bricolage_prix}/>
+        <Experience title="Bricolage" logo="/melimo/images/gloves.jpg" text={bricolage_text}  competences={bricolage_prix}/>
       </div>
 
       {/* <div>
-        <Experience title="Forfait gouvernance, demi journée (4h) " logo="/cv/images/famille.jpg" text={gouv_text}  competences={gouv_prix}/>
+        <Experience title="Forfait gouvernance, demi journée (4h) " logo="/cv/melimo/images/famille.jpg" text={gouv_text}  competences={gouv_prix}/>
       </div>
 
       <div>
-        <Experience title="Forfait gouvernance, journée complète (8h) " logo="/cv/images/famille.jpg" text={gouv_text2}  competences={gouv_prix2}/>
+        <Experience title="Forfait gouvernance, journée complète (8h) " logo="/cv/melimo/images/famille.jpg" text={gouv_text2}  competences={gouv_prix2}/>
       </div> */}
 
       
