@@ -1,6 +1,6 @@
 {
-  "homepage": "https://melimo-services.github.io/",
-  "name": "melimo-services",
+  "homepage": "https://melimo-services.github.io/melimo",
+  "name": "melimo",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
