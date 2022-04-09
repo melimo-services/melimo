@@ -20,7 +20,7 @@ export const routes: Array<RouteItem> = [
         key: "router-home",
         title: "Accueil",
         tooltip: "Home",
-        path: "/",
+        path: "/melimo",
         enabled: true,
         component: Home,
         icon: HomeIcon,
