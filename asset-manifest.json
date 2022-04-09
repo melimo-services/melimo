@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/melimo/static/js/main.be91b1b5.chunk.js",
+    "main.js.map": "/melimo/static/js/main.be91b1b5.chunk.js.map",
+    "runtime-main.js": "/melimo/static/js/runtime-main.d4185caf.js",
+    "runtime-main.js.map": "/melimo/static/js/runtime-main.d4185caf.js.map",
+    "static/js/2.4e51dc43.chunk.js": "/melimo/static/js/2.4e51dc43.chunk.js",
+    "static/js/2.4e51dc43.chunk.js.map": "/melimo/static/js/2.4e51dc43.chunk.js.map",
+    "static/js/3.d14cf2bf.chunk.js": "/melimo/static/js/3.d14cf2bf.chunk.js",
+    "static/js/3.d14cf2bf.chunk.js.map": "/melimo/static/js/3.d14cf2bf.chunk.js.map",
+    "index.html": "/melimo/index.html",
+    "static/js/2.4e51dc43.chunk.js.LICENSE.txt": "/melimo/static/js/2.4e51dc43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4185caf.js",
+    "static/js/2.4e51dc43.chunk.js",
+    "static/js/main.be91b1b5.chunk.js"
+  ]
+}
