@@ -32,22 +32,22 @@ const useStyles = makeStyles((theme: Theme) =>
   })
 );
 
-const menage_prix=["21.5€ de l'heure", "10.75€ après crédit d'impôts"]
+const menage_prix=["23.5€ de l'heure", "11.75€ après crédit d'impôts"]
 const Menage_text="Profitez de nos services de ménage pour vous aider à garder votre maison propre ! Nous venons aux horraires qui vous conviennent le mieux. "
 
-const jardinage_prix=["31€ de l'heure", "15.5€ après crédit d'impôts"]
+const jardinage_prix=["34€ de l'heure", "17€ après crédit d'impôts"]
 const jardinage_text="Profitez de nos services de jardinage pour faire entretenir vos terrains ! Nous pouvons aussi evacuer les déchets verts. Les prix pour les déchets verts sont en fonction du volume et de la déchèterie la plus proche."
 
-const garde_prix=["21.5€ de l'heure", "10.75€ après crédit d'impôts"]
+const garde_prix=["23.5€ de l'heure", "11.75€ après crédit d'impôts"]
 const garde_text="Profitez de nos services de garde d'enfants pour sortir entre amis, nous les gardons chez vous en toute sécurité ! "
 
-const aide_admin_prix=["22.5€ de l'heure", "11.25€ après crédit d'impôts"]
+const aide_admin_prix=["24€ de l'heure", "12€ après crédit d'impôts"]
 const aide_admin_text="Profitez de nos services d'aide administrative si avez besoin d'aide pour vos déclarations ! "
 
 const livraison_prix=["21.5€ de l'heure", "10.75€ après crédit d'impôts"]
 const livraison_text="Profitez de nos services de livraison de courses si vous n'avez plus le temps ou la force d'aller les récupéer. "
 
-const bricolage_prix=["26€ de l'heure", "13€ après crédit d'impôts"]
+const bricolage_prix=["28€ de l'heure", "14€ après crédit d'impôts"]
 const bricolage_text="Profitez de nos services de bricolage pour faire vos petites réparations !"
 
 // const gouv_prix=["20€ de l'heure", "10€ après crédit d'impôts"]
